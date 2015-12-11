@@ -5,7 +5,7 @@ sampleGame =
 {
 	
 };
-
+// test commit
 sampleGame.added = function()
 {
 	this.dirtTexture = THREE.ImageUtils.loadTexture("media/dirt.png");
